@@ -1,6 +1,6 @@
 ![logo](https://github.com/Anushreii/Anushreii/blob/main/git-banner.jpg)
 <h1 align="center">Hi 👋, I'm Anushree</h1>
-<h3 align="center">A passionate frontend developer | MERN Stack from India</h3>
+<h3 align="center">A passionate Frontend Developer | MERN Stack from India</h3>
 <img align="right" alt="code" width ="400" src="https://protfolioo-web.netlify.app/img1.avif">
 
 
