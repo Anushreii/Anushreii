@@ -1,4 +1,4 @@
-![logo](https://png.pngtree.com/background/20250102/original/pngtree-computer-of-a-programmer-with-lines-code-of-software-picture-image_15533605.jpg)
+![logo](https://wallpapers.com/images/hd/coding-background-zmygixkpkncbe0hs.jpg)
 <h1 align="center">Hi 👋, I'm Anushree</h1>
 <h3 align="center">A passionate Frontend Developer | MERN Stack from India</h3>
 <img align="right" alt="code" width ="400" src="https://protfolioo-web.netlify.app/img1.avif">
