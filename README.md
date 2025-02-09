@@ -1,12 +1,12 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQHbSj-gZFsbGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738942861394?e=1744243200&v=beta&t=rO1TPKYSARt-iN49rGqsiQZwBcmJrlrNeUgLLI28vXo)
 <h1 align="center">Hi 👋, I'm Anushree</h1>
-<h3 align="center">A passionate Frontend Developer | MERN Stack from India</h3>
+<h3 align="center">A Passionate Frontend Developer | MERN Stack From India</h3>
 <img align="right" alt="code" width ="400" src="https://protfolioo-web.netlify.app/img1.avif">
 
 
 - 🌱 I’m currently Developing My skills **MERN**
 
-- 👨‍💻 All of my projects are available at [Working on it](Working on it)
+- 👨‍💻 All of my projects are available at [Working on it]
 
 - 💬 Ask me about **JavaScript, React.js, TypeScript, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS**
 
