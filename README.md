@@ -1,29 +1,76 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQHbSj-gZFsbGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738942861394?e=1744243200&v=beta&t=rO1TPKYSARt-iN49rGqsiQZwBcmJrlrNeUgLLI28vXo)
+
 <h1 align="center">Hi 👋, I'm Anushree</h1>
-<h3 align="center">A Passionate Frontend Developer | MERN Stack From India</h3>
-<img align="right" alt="code" width ="400" src="https://protfolioo-web.netlify.app/img1.avif">
+<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast</h3>
 
-- 🌱 I’m currently Developing My skills **MERN**
+<img align="right" alt="Coding" width="400" src="https://protfolioo-web.netlify.app/img1.avif">
 
-- 👨‍💻 All of my projects are available at [Working on it](Working on it)
+### 🚀 About Me  
+- 🌱 I’m currently **expanding my MERN stack expertise**  
+- 💻 Check out my projects: **[Coming Soon!](#)**  
+- 💬 Ask me about **JavaScript, React.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Next.js, Styled Components**  
+- 📧 Reach me at: **anushreev813@gmail.com**  
+- ⚡ Fun fact: _"I debug faster than I decide what to eat! 😆💻"_  
 
-- 💬 Ask me about **JavaScript, React.js, TypeScript, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS**
+---
 
-- 📫 How to reach me **anushreev813@gmail.com**
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushreii-v13)  
 
-- ⚡ Fun fact **"I’m a MERN stack developer who can debug code faster than I can decide what to eat! 😆💻"**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠 Tech Stack & Tools  
+
 <p align="left">
-<a href="https://linkedin.com/in/anushreii-v13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushreii-v13" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
+
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> 
+
+<a href="https://reactjs.org/" target="_blank"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
+
+<a href="https://redux.js.org" target="_blank"> 
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
+
+<a href="https://nextjs.org/" target="_blank"> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /></a> 
+
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a>
+
+<a href="https://expressjs.com" target="_blank"> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> </a>
+
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
+
+<a href="https://firebase.google.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" alt="firebase" /> </a>
+
+
+<a href="https://mui.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" /> </a>
+
+<a href="https://styled-components.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" /> </a>
+
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
+
+<a href="https://gitlab.com/" target="_blank"> 
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" /> </a>
+
+<a href="https://jwt.io/" target="_blank"> 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="jwt" /> </a>
+
+<a href="https://postman.com" target="_blank"> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
+
+
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
+🌟 **Let's build something amazing together!** 🚀
