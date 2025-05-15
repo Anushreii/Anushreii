@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://protfolioo-web.netlify.app/img1.avif">
 
 ### 🚀 About Me  
-- 🌱 I’m currently **expanding my MERN stack expertise**  
+- 🌱 I’m currently **expanding my Nextjs expertise**  
 - 💻 Check out my projects: **[Coming Soon!](#)**  
 - 💬 Ask me about **JavaScript, React.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Next.js, Styled Components**  
 - 📧 Reach me at: **anushreev813@gmail.com**  
