@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://protfolioo-web.netlify.app/img1.avif">
 
 ### 🚀 About Me  
-- 🌱 Currently working as a Software Engineer, expanding my expertise in Next.js.**
+- 🌱 Currently working as a **Software Engineer**, expanding my expertise in **Next.js**
 - 🧠 Actively enhancing my Data Structures and Algorithms (DSA) problem-solving skills. 
 - 💻 Check out my projects: **[Coming Soon!](#)**  
 - 💬 Ask me about **React Native, JavaScript, React.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Next.js**  
