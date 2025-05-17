@@ -9,7 +9,7 @@
 - 🌱 Currently working as a **Software Engineer**, expanding my expertise in **Next.js**
 - 🧠 Actively enhancing my Data Structures and Algorithms (DSA) problem-solving skills. 
 - 💻 Check out my projects: **[Coming Soon!](#)**  
-- 💬 Ask me about **React Native, JavaScript, React.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Next.js**  
+- 💬 Ask me about **React Native, React.js, Next.js**  
 - 📧 Reach me at: **anushreev0224@gmail.com**  
 - ⚡ Fun fact: _"I debug faster than I decide what to eat! 😆💻"_  
 
