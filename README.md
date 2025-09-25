@@ -11,8 +11,6 @@
 - 💻 Check out my projects: **[Coming Soon!](#)**  
 - 💬 Ask me about **React Native, React.js, Next.js**  
 - 📧 Reach me at: **anushreev0224@gmail.com**  
-- ⚡ Fun fact: _"I debug faster than I decide what to eat! 😆💻"_  
-
 ---
 
 ## 🌐 Connect with Me  
